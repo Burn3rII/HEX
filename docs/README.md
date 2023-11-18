@@ -6,7 +6,7 @@ Cette version du jeu HEX est implémentée selon le modèle MVC (Modèle-Vue-Con
 
 Le projet est organisé en plusieurs dossiers :
 
-- **docs** : Contient le fichier README et les fichiers nécéssaires à la génération de la documentation avec doxygen.
+- **docs** : Contient le fichier README et les fichiers nécéssaires à la génération de la documentation avec doxygen. Contient également le sujet du jeu.
 - **include** : Contient uniquement les fichiers d'en-tête (.h) qui déclarent les éléments publics nécessaires à l'interface d'un module ou d'une 
 bibliothèque.
 - **src** : Contient le code source des modules, y compris les fichiers .c du modèle MVC (model, view, controller), ainsi que le fichier principal main.c.
